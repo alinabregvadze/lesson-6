@@ -41,7 +41,7 @@ li>a{
 	margin-right:50px;
 	width:32px;
 }
-li: last-chiled{
+.contact{
 	width:58px;
 }
 .resort{
@@ -172,4 +172,42 @@ h1{
 }
 .pool{
 	margin-left:10px;
+}
+.footer-sec{
+	height:304px;
+	background: #121212;
+	padding-left:139px;
+	padding-top:50px;
+}
+footer img{
+	display: inline-block;
+	margin-right:21.9px;
+}
+footer>h3{
+	color:#FFFFFF;
+	font-size:24px;
+	font-family:Bold;
+	width:148px;
+	height:33px;
+}
+h3+p{
+	color:#B1B1B1;
+	font-size:14px;
+	font-family:Medium;
+	width:828px;
+	height:83px;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.copyright{
+	margin-top:9px;
+	width:559px;
+	height:20px;
+	color:#B1B1B1;
+	font-size:14px;
+	font-family:Medium;
+	margin-bootom:32px;
+}
+.copyright>span{
+	color:#5863F8;
 }
