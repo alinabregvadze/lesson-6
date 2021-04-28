@@ -1,75 +1,36 @@
-.d-block{
-	display: inline-block;
-}
 .intro{
 	position:relative;
 }
-.name{
-	color:#FFFFFF;
-	font-size:14px;
-	font-family: SemiBold;
+header{
 	position:absolute;
-	margin-top:20px;
-	margin-left:139px;
-	width:85px;
-}
-li>a{
-	font-size:12px;
-	font-family: Medium;
-	color:#FFFFFF;
-	position:absolute;
-	margin-top:21px;
-}
-ul{
-	width:562px;
-}
-.home{
-	margin-top:21px;
-	margin-left:665px;
-}
-.rooms{
-	margin-left:749px;
-}
-.restaurant{
-	margin-left:854px;
-}
-.about{
-	margin-left:978px;
-}
-.blog{
-	margin-left:1087px;
-}
-.contact{
-	margin-left:1169px;
-}
-.resort{
-	margin-top:0;
-	max-width: 1366px;
-	max-height: 662px;
+	top:20px;
+	left:139px;
 }
 h1{
-	color:#FFFFFF;
-	font-size:62px;
-	font-family: ExtraBold;
-	width:576px;
-	height:160px;
-	margin:209px 651px 293px 139px;
 	position:absolute;
+	top:209px;
+	left:139px;
 }
-.descr{
-	font-size:14px;
-	font-family: Regular;
-	color:#FFFFFF;
-	width:352px;
-	height:64px;
+.description{
 	position:absolute;
-	margin:389px 875px 209px 139px;
+	top:389px;
+	left:139px;
 }
-/*.stycky{
-	position:sticky;
+.sticky{
 	position:absolute;
-	color:#FFFFFF;
-	font-size:20px;
-	font-family:Bold;
-	margin:572px 1105px 62px 139px;
-}*/
+	top:572px;
+	left:139px;
+}
+.arrow-l{
+	position:absolute;
+	top:556px;
+	right:109px;
+}
+.arrow-r{
+	position:absolute;
+	top:556px;
+	right:139px;
+}
+.d-block{
+	display:inline-block;
+}
