@@ -77,7 +77,8 @@ h1{
 	color:#FFFFFF;
 	font-size:20px;
 	font-family:Bold;
-	/*position:sticky;
+	/*absolute და sticky ერთად არ მოქმედებდა
+	position:sticky;
 	z-index:1;*/
 }
 .arrow-r{
