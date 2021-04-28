@@ -6,6 +6,47 @@ header{
 	top:20px;
 	left:139px;
 }
+.name{
+	margin-right:441px;
+	color:#FFFFFF;
+	font-size:14px;
+	font-family: SemiBold;
+	width:85px;
+	height:20px;
+}
+li>a{
+	color:#FFFFFF;
+	font-size:12px;
+	font-family:Medium;
+	height:17px;
+}
+.home{
+	margin-right:50px;
+	width:34px;
+}
+.rooms{
+	margin-right:61px;
+	width:44px;
+}
+.restaurant{
+	margin-right:48px;
+	width:76px;
+}
+.about{
+	margin-right:49px;
+	width:60px;
+}
+.blog{
+	margin-right:50px;
+	width:32px;
+}
+li: last-chiled{
+	width:58px;
+}
+.resort{
+	max-width:1366px;
+	max-height:662px;
+}
 h1{
 	position:absolute;
 	top:209px;
